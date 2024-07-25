@@ -314,7 +314,7 @@ body {
 
 .advantages-item-container {
   padding: 40px 85px;
-  min-width: 400px;
+  width: 400px;
 }
 
 .advantages-item {
